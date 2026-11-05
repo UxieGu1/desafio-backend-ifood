@@ -1,0 +1,11 @@
+ID;Nome_Completo;Status;Departamento
+101;Amanda Costa;Ativo;RH
+102;Tiago Leifert;Ativo;Comunicação
+103;joão batista de oliveira;Inativo;Operações
+104;Bruna Marquezine;Ativo;Vendas
+105;Camila Pitanga;Pendente;Marketing
+106;Lázaro Ramos;Ativo;TI
+107;Wagner Moura;Inativo;Diretoria
+108;Pedro Pascal;Ativo;Engenharia
+109;Maria Joaquina;Ativo;Vendas
+110;Joao Miguel,Pendente,TI

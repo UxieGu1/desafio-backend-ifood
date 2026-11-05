@@ -1,0 +1,12 @@
+--- LISTA DE ASSINATURAS FEVEREIRO 2016 ---
+[001] assinatura confirmada: Felipe Neto
+[002] assinatura confirmada: Marina Ruy Barbosa
+[003] assinatura pendente: JOAO GUILHERME
+[004] assinatura confirmada: Rodrigo Hilbert
+[005] assinatura negada: Tatá Werneck
+[006] assinatura confirmada: Paulo Gustavo
+[007] assinatura confirmada: Maria Bethânia
+[008] assinatura pendente: Joao da Silva sauro
+[009] assinatura confirmada: Caetano Veloso
+[010] assinatura confirmada: Gilberto Gil
+[011] assinatura confirmada: Joãozinho Trinta
